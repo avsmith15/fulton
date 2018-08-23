@@ -1,9 +1,9 @@
 # Development Notes
 
 ## fulton-cli
-There are some environmental variables for developing purposes.
+There are two environmental variables for developmental purposes.
 
-- NODE_ENV=/dev/i, open some developing only features, like show more logs, not actually execution `npm install`
-- CWD=PATH, default ROOT is current work directory
+- NODE_ENV=/dev/i, open various develop-only features, like show more logs (without actually executing the command) `npm install`
+- CWD=PATH, default ROOT is the current work directory
 
 
