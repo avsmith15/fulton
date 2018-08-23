@@ -1,8 +1,8 @@
 # Fulton
 
-Fulton is our, [SWARM](http://swarmnyc.com), approach of building web API servers and clients quickly and practically.
+Fulton is [SWARM's](http://swarmnyc.com) approach to building web API servers and clients—quickly and practically.
 
 ## Fulton Family
-- `fulton-server` is a server side framework based on NodeJs, [link](https://www.npmjs.com/package/fulton-server).
-- `fulton-android` is a client for android, [link](https://github.com/swarmnyc/fulton-android).
-- `fulton-cli` is CLI tool, it can help you creating project and generating files, routers and etc. [link](https://www.npmjs.com/package/fulton-cli).
+- [`fulton-server`](https://www.npmjs.com/package/fulton-server) is our server-facing framework based on NodeJs.
+- [`fulton-android`](https://github.com/swarmnyc/fulton-android) is our client for android.
+- [`fulton-cli`](https://www.npmjs.com/package/fulton-cli) is our CLI tool, which aides in creating projects. It can also generate files, routers and more.
